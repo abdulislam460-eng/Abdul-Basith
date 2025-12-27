@@ -1,0 +1,5 @@
+{
+  "name": "AI Pro-Portfolio Builder",
+  "description": "A sophisticated portfolio website that intelligently extracts your skills and experience from documents using Gemini AI to build a professional online presence in seconds.",
+  "requestFramePermissions": []
+}
